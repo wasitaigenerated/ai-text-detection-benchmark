@@ -29,4 +29,4 @@ you ran the detector. We link every submission from the write-up, including resu
 
 ## License
 
-Data and code: CC BY 4.0 (see `LICENSE`), except texts whose source license is listed per row.
+Code (`eval.py`): MIT (see `LICENSE`). Data, results and text: CC BY 4.0 (see `LICENSE-DATA`), except texts whose source license is listed per row.
